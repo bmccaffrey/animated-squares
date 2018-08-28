@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import Square from './Square';
+import { Square } from './Components';
 import { Container } from './Container';
 
 class App extends Component {

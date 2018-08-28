@@ -10,6 +10,14 @@ class App extends Component {
       <Container>
         <Grid>
           <Square />
+          <Square />
+          <Square />
+          <Square />
+          <Square />
+          <Square />
+          <Square />
+          <Square />
+          <Square />
         </Grid>
       </Container>
     );

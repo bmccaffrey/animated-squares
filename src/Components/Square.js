@@ -1,7 +1,7 @@
 import styled, { keyframes } from 'styled-components';
 import { Rotate } from './Rotate';
 
-const Square = styled.div`
+export const Square = styled.div`
   height: 50px;
   width: 50px;
   background: red;

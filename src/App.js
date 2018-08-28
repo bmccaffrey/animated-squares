@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import { Square } from './Components';
-import { Container } from './Container';
+import { Container } from './Components';
 
 class App extends Component {
   render() {

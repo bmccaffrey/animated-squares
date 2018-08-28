@@ -1,13 +1,11 @@
 import React, { Component } from 'react';
 import styled, { keyframes } from 'styled-components';
-// import './square.css';
 
 export default class Square extends Component {
   render() {
     return (
       <div>
         <Stuff />
-        {/* <div class="square" /> */}
       </div>
     );
   }
